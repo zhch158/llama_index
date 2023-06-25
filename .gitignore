@@ -144,3 +144,19 @@ modules/
 # pipenv
 Pipfile
 Pipfile.lock
+examples/chatbot/data/UBER.zip
+.vscode/launch.json
+examples/chatbot/data/UBER/UBER_2019.html
+examples/chatbot/data/UBER/UBER_2020.html
+examples/chatbot/data/UBER/UBER_2021.html
+examples/chatbot/data/UBER/UBER_2022.html
+examples/chatbot/data/__MACOSX/UBER/._UBER_2019.html
+examples/chatbot/data/__MACOSX/UBER/._UBER_2020.html
+examples/chatbot/data/__MACOSX/UBER/._UBER_2021.html
+examples/chatbot/data/__MACOSX/UBER/._UBER_2022.html
+examples/chatbot/10k_filing.html
+.vscode/settings.json
+.vscode/settings.json
+.vscode/settings.json
+.vscode/settings.json
+.vscode/settings.json
